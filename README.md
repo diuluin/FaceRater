@@ -13,3 +13,4 @@ python main.py
 ```bash
 python -m unittest discover tests
 ```
+Requirements: pip install deepface, VS Code.
